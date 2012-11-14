@@ -44,6 +44,10 @@ Second, add following the string. It grants the scripts put on /home/icecube/bin
 
 With that, implementation has been finishd. Have fun!
 
+## More Information
+
+See following website: [http://blog.quellencode.org/post/35625907526/sensors-cron-ruby-cpu-temperature-monitoring](http://blog.quellencode.org/post/35625907526/sensors-cron-ruby-cpu-temperature-monitoring)
+
 ## About Author
 
 Moza USANE

@@ -46,6 +46,11 @@ Linux(openSUSE 12.2)およびRuby 1.9.3で動作することを確認してい�
 
 以上で導入は完了である。have fun!
 
+## より詳しい情報
+
+以下のウェブサイトに詳細な説明を載せている
+: [http://blog.quellencode.org/post/35625907526/sensors-cron-ruby-cpu-temperature-monitoring](http://blog.quellencode.org/post/35625907526/sensors-cron-ruby-cpu-temperature-monitoring)
+
 ## 作者について
 
 Moza USANE
